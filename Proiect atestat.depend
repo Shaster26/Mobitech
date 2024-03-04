@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649285862 source:d:\baga\proiect atestat\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<chrono>
+	<thread>
+
